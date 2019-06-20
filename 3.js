@@ -1,5 +1,4 @@
 let input = "1+7*(15-1)/2";
-// output: 50
 
 var oper = ['+', '-', '&', '/', '(', ')'];
 var index = 0;
